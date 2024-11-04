@@ -14,5 +14,6 @@ export default antfu({
   },
   rules: {
     'spaced-comment': 'off', // 关闭 spaced-comment 规则
+    'ts/no-empty-object-type': 'off',
   },
 })
